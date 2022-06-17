@@ -1,9 +1,9 @@
-## iPhone Clone
+## iPhone Clone Starter File
 <p align="left">
 <img src="./iphone/screen10.png" width="200">
 </p>
 
-Let's build an iphone clone with html and css as seen above:
+Let's build an iphone clone with html and css as seen above, kindly clone the repo to get started with the project.
 
 - HTML.
 - CSS.
