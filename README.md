@@ -1,8 +1,6 @@
 ## iPhone Clone
 <p align="left">
-<img src="./iphone/screen1.png" width="400">
-<img src="./iphone/screen7.png" width="400">
-<img src="./iphone/screen10.png" width="400">
+<img src="./iphone/screen10.png" width="200">
 </p>
 
 Let's build an iphone clone with html and css as seen above:
